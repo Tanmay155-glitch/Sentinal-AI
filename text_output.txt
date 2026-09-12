@@ -1,0 +1,316 @@
+﻿Slide 1 bg color: 0F172A
+Slide 2 bg color: F8FAFC
+Slide 3 bg color: F8FAFC
+Slide 4 bg color: F8FAFC
+Slide 5 bg color: F8FAFC
+Slide 6 bg color: F8FAFC
+Slide 7 bg color: F8FAFC
+Slide 8 bg color: F8FAFC
+Slide 9 bg color: F8FAFC
+Slide 10 bg color: F8FAFC
+Slide 11 bg color: F8FAFC
+Slide 12 bg color: F8FAFC
+Slide 13 bg color: 0F172A
+
+
+=== FULL TEXT CONTENT ===
+
+--- SLIDE 1 ---
+CAPSTONE PROJECT & INDUSTRY EVALUATION
+---
+SENTINEL AI
+---
+Intelligent Endpoint Threat Detection and Response (EDR) Platform
+---
+Tauri v2  |  Rust  |  React 18  |  TypeScript  |  ONNX Runtime ML  |  SQLite  |  MITRE ATT&CK
+---
+≡ƒæñ
+---
+Tanmay Gawali
+---
+Team Lead & AI Architect
+---
+≡ƒæñ
+---
+Divij Kulkarni
+---
+Rust Core & Systems Engineer
+---
+≡ƒæñ
+---
+Soham Wadale
+---
+Network Telemetry Engineer
+---
+≡ƒæñ
+---
+Ananya Kaushik
+---
+Frontend & Compliance Lead
+---
+
+--- SLIDE 2 ---
+The Endpoint Security Challenge
+---
+Limitations of Legacy Signature Antivirus & Heavy Cloud EDRs
+---
+≡ƒÄÖ∩╕Å Tanmay Gawali
+---
+ΓÜá∩╕Å Current Industry Vulnerabilities
+---
+Stealth Fileless Malware: PowerShell scripts and living-off-the-land binaries bypass traditional static antivirus signatures.
+High Cloud Latency: Streaming raw host telemetry to cloud SIEM servers causes network overhead and delays threat response.
+Privacy & Compliance Risks: Transmitting full packet payloads across external networks risks GDPR/HIPAA compliance violations.
+Heavy Resource Overhead: Commercial EDR agents frequently consume 15-25% CPU, degrading host device performance.
+---
+≡ƒÄ» The Sentinel AI Solution
+---
+100% On-Device Protection: Local machine learning inference (ONNX Runtime) with zero cloud server dependency.
+Sub-Millisecond Probing: Native Rust background service leveraging low-overhead Event Tracing for Windows (ETW).
+Metadata-Only Inspection: 5-tuple network flow correlation without intrusive TLS packet payload decryption.
+Automated Incident Export: Generates standardized NIST SP 800-61 Rev. 2 forensic packages for security operations.
+---
+
+--- SLIDE 3 ---
+Team Role Allocation & Technical Ownership
+---
+Structured Division of Responsibilities Across Architecture, Core & Compliance
+---
+≡ƒÄÖ∩╕Å Tanmay Gawali
+---
+Tanmay Gawali (Team Lead) ΓÇö AI Engine Architect
+---
+Technical Scope: ONNX ML Model Training, 15-Vector Feature Extraction, AI Explainability.
+Presentation Focus: Project Vision, Problem Statement, ML Detection Engine & Q&A Lead.
+---
+Divij Kulkarni ΓÇö Rust Core & Systems Engineer
+---
+Technical Scope: Tauri v2 IPC Architecture, ETW Process Monitoring, Win32 System Probing, SQLite DDL.
+Presentation Focus: Tech Stack Justification, Real-Time Process Monitor, Benchmarks.
+---
+Soham Wadale ΓÇö Network & Subnet Engineer
+---
+Technical Scope: 5-Tuple Socket Tracking, Npcap Flow Engine, ARP/mDNS Device Scanner, Registry Watcher.
+Presentation Focus: Network Flow Tracking, Subnet Device Scanner, Persistence Monitor.
+---
+Ananya Kaushik ΓÇö Frontend Architect & Compliance Lead
+---
+Technical Scope: Glassmorphic React Console, MITRE ATT&CK Matrix, NIST SP 800-61 Rev. 2 Exporter.
+Presentation Focus: MITRE Alert Triage, NIST Forensic Exporter, UI Console Demonstration.
+---
+
+--- SLIDE 4 ---
+High-Level System Architecture
+---
+Low-Overhead Native Rust Core with Embedded ONNX Inference
+---
+≡ƒÄÖ∩╕Å Divij Kulkarni
+---
+ΓÜ¢∩╕Å Desktop Shell & UI
+---
+Tauri v2 + React 18: Component-driven responsive interface using native system webview.
+Low Memory Footprint: Consumes ~42 MB idle RAM vs. 200MB+ for Chromium/Electron apps.
+TypeScript IPC: Asynchronous, type-safe command invocation to native Rust backend threads.
+---
+≡ƒªÇ Native Rust Core Engine
+---
+ETW Telemetry Probing: Subscribes to Microsoft-Windows-Kernel-Process provider for process lifecycle events.
+Win32 System Hooks: Direct query of process trees, SHA-256 binary hashes, and digital signatures.
+Embedded SQLite DB: Zero-admin local storage managing 14 normalized telemetry tables.
+---
+≡ƒºá Machine Learning & Storage
+---
+Embedded ONNX Engine: Evaluates Python-trained Random Forest/XGBoost models via ONNX C++ Runtime.
+Zero Cloud Dependencies: Inference runs completely offline without sending telemetry over external networks.
+Threat Intel Cache: Local cache of public IOC hash lists (abuse.ch, URLhaus).
+---
+
+--- SLIDE 5 ---
+Module 1: Real-Time Process & Behavior Engine
+---
+Continuous Host Telemetry & Heuristic Integrity Probing
+---
+≡ƒÄÖ∩╕Å Divij Kulkarni
+---
+ΓÜí Continuous Telemetry Collection
+---
+Process Tree Enumeration: Tracks active processes, parent-child PID relationships, and thread counts.
+Resource Profiling: Monitors CPU usage ratios and RAM memory footprint at 2-second intervals.
+SHA-256 Image Hashing: Automated cryptographic hashing of binary images upon execution.
+Digital Signature Audit: Queries Authenticode signatures to identify unsigned or self-signed binaries.
+---
+≡ƒ¢í∩╕Å Behavioral Heuristic Rules
+---
+Unquoted Service Paths: Flags service paths vulnerable to binary hijacking and privilege escalation.
+Temp Directory Execution: Scrutinizes executables launched from AppData\Local\Temp or Downloads.
+Command Line Flags: Detects obfuscated PowerShell parameters (-enc, -nop, -w hidden).
+Parent-Child Anomalies: Flags irregular spawns (e.g. cmd.exe or powershell.exe spawned by excel.exe).
+---
+
+--- SLIDE 6 ---
+Module 2: Embedded ONNX AI Threat Classifier
+---
+Local Inference for Zero-Day Behavior Classification
+---
+≡ƒÄÖ∩╕Å Tanmay Gawali
+---
+≡ƒñû Model Training & Architecture
+---
+Supervised Ensemble: Random Forest and XGBoost classifiers trained on 15+ behavioral feature vectors.
+ONNX Compilation: Model exported to Open Neural Network Exchange format for native C++ execution.
+15 Feature Vectors: Includes CPU/RAM growth rate, parent-child ratio, outbound socket count, and digital signature status.
+Zero Cloud Latency: Runs inference locally inside the Rust binary without embedding Python interpreters.
+---
+≡ƒôê Empirical Performance & Explainability
+---
+98.4% Accuracy: Evaluated against public EMBER malware benchmark datasets and benign baselines.
+< 2.4 ms Latency: Sub-millisecond inference speed ensures process threat classification happens in near-real-time.
+Explainable Risk Scoring: Outputs a 0ΓÇô100 risk score and lists feature importance weights for every alert.
+Fixed Taxonomy: Classifies threats into Trojan, Ransomware-like, PUA, or Suspicious categories.
+---
+
+--- SLIDE 7 ---
+Module 3: Network Flow Monitor & Subnet Scanner
+---
+5-Tuple Socket Correlation & Local Subnet Device Discovery
+---
+≡ƒÄÖ∩╕Å Soham Wadale
+---
+≡ƒîÉ Network Flow Correlation
+---
+5-Tuple Flow Tracking: Captures Source IP/Port, Destination IP/Port, and Protocol statistics.
+Process-to-Socket Mapping: Correlates active network sockets directly to local PIDs via GetExtendedTcpTable.
+Privacy Guarantee: Zero TLS payload decryption; inspects SNI server names and flow metadata only.
+Local Firewall Blocking: Allows instant creation of Windows Filtering Platform (WFP) blocking rules for malicious IPs.
+---
+≡ƒôí Subnet Device Discovery
+---
+Dual Probing Protocol: Uses ARP sweeps and mDNS/SSDP broadcast listening to discover active subnet hosts.
+Device Fingerprinting: Resolves local hostnames, IP histories, and IEEE OUI MAC vendor tags.
+MAC Spoof Detection: Identifies MAC address randomization and suspicious MAC duplication.
+Port Scan Heuristics: Flags newly connected devices attempting rapid sequential port probes.
+---
+
+--- SLIDE 8 ---
+Module 4: Windows Registry & Persistence Inspector
+---
+Defending Against System Startup & Boot Autostart Hijacking
+---
+≡ƒÄÖ∩╕Å Soham Wadale
+---
+≡ƒöæ Windows Registry Inspection
+---
+Run & RunOnce Keys: Scans HKCU and HKLM Software\Microsoft\Windows\CurrentVersion\Run keys.
+Windows Services: Monitors creation and modification of background system service configurations.
+Scheduled Tasks: Audits Windows Task Scheduler entries for obfuscated executable launch flags.
+---
+≡ƒôü Startup Folder & MITRE Mapping
+---
+Startup Folder Watching: Tracks added shortcut (.lnk) files and scripts in user autostart directories.
+Binary Integrity Check: Computes SHA-256 checksums of autostart binaries to detect unauthorized tampering.
+MITRE ATT&CK T1547: Tags all persistence modifications with official MITRE technique ID T1547.
+---
+
+--- SLIDE 9 ---
+Module 5: Alert Triage & Incident Compliance
+---
+MITRE ATT&CK Mapping & NIST SP 800-61 Rev. 2 Exporter
+---
+≡ƒÄÖ∩╕Å Ananya Kaushik
+---
+≡ƒÅ╖∩╕Å MITRE ATT&CK Alert Matrix
+---
+Automated Technique Tagging: Tags alerts with standard MITRE IDs (T1059 Command Line, T1055 Process Injection).
+Severity Classification: Categorizes threats into Critical, High, Medium, and Informational tiers.
+Chronological Timeline: Displays a unified attack timeline linking process, network, and registry events.
+---
+≡ƒôä NIST SP 800-61 Rev. 2 Exporter
+---
+Standardized Forensic Bundles: Exports structured JSON and Markdown incident packages for SOC analysts.
+Lifecycle Alignment: Follows NIST phases: Preparation ΓåÆ Detection & Analysis ΓåÆ Containment ΓåÆ Post-Incident.
+Actionable Remediation: Includes full hash chains, network sockets, AI confidence scores, and containment steps.
+---
+
+--- SLIDE 10 ---
+UI / UX Architecture & Dashboard Console
+---
+Modern Glassmorphic Interface Built for Security Operations
+---
+≡ƒÄÖ∩╕Å Ananya Kaushik
+---
+≡ƒôè Executive Dashboard
+---
+Functionality: Real-time threat status gauge, active process metrics, network flow volume, and high-level risk overview.
+---
+ΓÜí Process Table
+---
+Functionality: Dynamic sorting, search filtering, binary hash inspection modal, and instant process termination controls.
+---
+≡ƒöÑ MITRE Heatmap
+---
+Functionality: Interactive grid matrix visualizing detected ATT&CK techniques across active system events.
+---
+≡ƒôü Incident Exporter
+---
+Functionality: One-click generation of NIST SP 800-61 forensic report bundles with custom time filters.
+---
+
+--- SLIDE 11 ---
+Performance Benchmarks & Security Safeguards
+---
+Empirical Measurement of Agent Resource Usage & Operating Controls
+---
+≡ƒÄÖ∩╕Å Divij Kulkarni
+---
+ΓÜí CPU & RAM Overhead
+---
+< 1.8% CPU Usage: Measured under steady-state monitoring (Target was < 5%).
+~42 MB RAM Footprint: 70% lower memory usage than Electron-based monitoring agents.
+Sub-Second Startup: Cold application launch in under 250 milliseconds.
+---
+ΓÅ▒∩╕Å Inference & Latency
+---
+< 2.4 ms ML Inference: Local ONNX C++ Runtime inference time per evaluation.
+12 ms Cycle Enumeration: Full host process tree query duration.
+1.1 s Subnet ARP Sweep: Local subnet device discovery duration.
+---
+≡ƒöÆ Operational Safety
+---
+Elevated Privileges: Runs in Administrator mode for ETW and WFP firewall management.
+User Confirmation: Process termination & IP blocking require explicit user confirmation.
+OS Coexistence: Acts as a complementary monitoring layer; does not disable Windows Defender.
+---
+
+--- SLIDE 12 ---
+Product Roadmap & Future Scope
+---
+Transitioning from Endpoint MVP to Enterprise EDR Framework
+---
+≡ƒÄÖ∩╕Å Soham Wadale
+---
+≡ƒÜÇ Phase 1: Near-Term Enhancements
+---
+Cross-Platform Support: Porting kernel telemetry probes to Linux via eBPF and macOS via Endpoint Security API.
+Automated Quarantine: Optional auto-isolation of network interfaces upon critical ransomware alerts.
+YARA Rule Scanning: Live scanning of process memory buffers against custom YARA threat rules.
+---
+≡ƒîÉ Phase 2: Enterprise Infrastructure
+---
+Centralized Fleet Management: Multi-agent management server console for enterprise workstation fleets.
+SIEM Connector Integration: Native Syslog/CEF export to Splunk, Elastic, and Microsoft Sentinel.
+Continuous ML Updating: Federated on-device model updating with feedback loops.
+---
+
+--- SLIDE 13 ---
+PROJECT COMPLETION & EVALUATION
+---
+Thank You!
+---
+Sentinel AI ΓÇö Intelligent Endpoint Threat Detection & Response System
+---
+≡ƒôü Official Project GitHub Repository:
+---
+https://github.com/Tanmay155-glitch/Sentinal-AI.git
+---
+Presenters: Tanmay Gawali (Lead)  |  Divij Kulkarni  |  Soham Wadale  |  Ananya Kaushik
+---

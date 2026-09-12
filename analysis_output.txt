@@ -1,0 +1,1011 @@
+﻿Total Slides: 13
+Slide Width: 9144000 EMU = 10.00 inches
+Slide Height: 5143500 EMU = 5.62 inches
+
+================================================================================
+SLIDE 1
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=457200, width=8229600, height=320040
+  Para 0: 'CAPSTONE PROJECT & INDUSTRY EVALUATION' | align=CENTER (2) | font=Arial, size=139700, bold=True, italic=None, color=0284C7
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=868680, width=8229600, height=685800
+  Para 0: 'SENTINEL AI' | align=CENTER (2) | font=Arial, size=457200, bold=True, italic=None, color=FFFFFF
+
+  Shape: Text 2
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1554480, width=8229600, height=365760
+  Para 0: 'Intelligent Endpoint Threat Detection and Response (EDR) Platform' | align=CENTER (2) | font=Arial, size=177800, bold=None, italic=None, color=CBD5E1
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1965960, width=8229600, height=320040
+  Para 0: 'Tauri v2  |  Rust  |  React 18  |  TypeScript  |  ONNX Runtime ML  |  SQLite  |  MITRE ATT&CK' | align=CENTER (2) | font=Arial, size=120650, bold=True, italic=None, color=0284C7
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=2606040, width=1920240, height=2011680
+
+  Shape: Text 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=2834640, width=1920240, height=365760
+  Para 0: '?' | align=CENTER (2) | font=None, size=254000, bold=None, italic=None, color=000000
+
+  Shape: Text 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=3337560, width=1920240, height=320040
+  Para 0: 'Tanmay Gawali' | align=CENTER (2) | font=Arial, size=139700, bold=True, italic=None, color=FFFFFF
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=3703320, width=1920240, height=640080
+  Para 0: 'Team Lead & AI Architect' | align=CENTER (2) | font=Arial, size=114300, bold=None, italic=None, color=94A3B8
+
+  Shape: Shape 8
+  Type: AUTO_SHAPE (1)
+  Position: left=2560320, top=2606040, width=1920240, height=2011680
+
+  Shape: Text 9
+  Type: AUTO_SHAPE (1)
+  Position: left=2560320, top=2834640, width=1920240, height=365760
+  Para 0: '?' | align=CENTER (2) | font=None, size=254000, bold=None, italic=None, color=000000
+
+  Shape: Text 10
+  Type: AUTO_SHAPE (1)
+  Position: left=2560320, top=3337560, width=1920240, height=320040
+  Para 0: 'Divij Kulkarni' | align=CENTER (2) | font=Arial, size=139700, bold=True, italic=None, color=FFFFFF
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=2560320, top=3703320, width=1920240, height=640080
+  Para 0: 'Rust Core & Systems Engineer' | align=CENTER (2) | font=Arial, size=114300, bold=None, italic=None, color=94A3B8
+
+  Shape: Shape 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4663440, top=2606040, width=1920240, height=2011680
+
+  Shape: Text 13
+  Type: AUTO_SHAPE (1)
+  Position: left=4663440, top=2834640, width=1920240, height=365760
+  Para 0: '?' | align=CENTER (2) | font=None, size=254000, bold=None, italic=None, color=000000
+
+  Shape: Text 14
+  Type: AUTO_SHAPE (1)
+  Position: left=4663440, top=3337560, width=1920240, height=320040
+  Para 0: 'Soham Wadale' | align=CENTER (2) | font=Arial, size=139700, bold=True, italic=None, color=FFFFFF
+
+  Shape: Text 15
+  Type: AUTO_SHAPE (1)
+  Position: left=4663440, top=3703320, width=1920240, height=640080
+  Para 0: 'Network Telemetry Engineer' | align=CENTER (2) | font=Arial, size=114300, bold=None, italic=None, color=94A3B8
+
+  Shape: Shape 16
+  Type: AUTO_SHAPE (1)
+  Position: left=6766560, top=2606040, width=1920240, height=2011680
+
+  Shape: Text 17
+  Type: AUTO_SHAPE (1)
+  Position: left=6766560, top=2834640, width=1920240, height=365760
+  Para 0: '?' | align=CENTER (2) | font=None, size=254000, bold=None, italic=None, color=000000
+
+  Shape: Text 18
+  Type: AUTO_SHAPE (1)
+  Position: left=6766560, top=3337560, width=1920240, height=320040
+  Para 0: 'Ananya Kaushik' | align=CENTER (2) | font=Arial, size=139700, bold=True, italic=None, color=FFFFFF
+
+  Shape: Text 19
+  Type: AUTO_SHAPE (1)
+  Position: left=6766560, top=3703320, width=1920240, height=640080
+  Para 0: 'Frontend & Compliance Lead' | align=CENTER (2) | font=Arial, size=114300, bold=None, italic=None, color=94A3B8
+
+================================================================================
+SLIDE 2
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'The Endpoint Security Challenge' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Limitations of Legacy Signature Antivirus & Heavy Cloud EDRs' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Tanmay Gawali' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '?? Current Industry Vulnerabilities' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=3218688
+  Para 0: 'Stealth Fileless Malware: PowerShell scripts and living-off-the-land binaries bypass traditional static antivirus signat' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '? The Sentinel AI Solution' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=3218688
+  Para 0: '100% On-Device Protection: Local machine learning inference (ONNX Runtime) with zero cloud server dependency.
+Sub-Millis' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 3
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Team Role Allocation & Technical Ownership' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Structured Division of Responsibilities Across Architecture, Core & Compliance' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Tanmay Gawali' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=1737360
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: 'Tanmay Gawali (Team Lead) ? AI Engine Architect' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=1298448
+  Para 0: 'Technical Scope: ONNX ML Model Training, 15-Vector Feature Extraction, AI Explainability.
+Presentation Focus: Project Vi' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=1737360
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: 'Divij Kulkarni ? Rust Core & Systems Engineer' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=1298448
+  Para 0: 'Technical Scope: Tauri v2 IPC Architecture, ETW Process Monitoring, Win32 System Probing, SQLite DDL.
+Presentation Focus' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 13
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=2971800, width=3977640, height=1737360
+
+  Shape: Shape 14
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=2971800, width=3977640, height=347472
+
+  Shape: Text 15
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=3008376, width=3703320, height=274320
+  Para 0: 'Soham Wadale ? Network & Subnet Engineer' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 16
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=3355848, width=3703320, height=1298448
+  Para 0: 'Technical Scope: 5-Tuple Socket Tracking, Npcap Flow Engine, ARP/mDNS Device Scanner, Registry Watcher.
+Presentation Foc' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 17
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=2971800, width=3977640, height=1737360
+
+  Shape: Shape 18
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=2971800, width=3977640, height=347472
+
+  Shape: Text 19
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=3008376, width=3703320, height=274320
+  Para 0: 'Ananya Kaushik ? Frontend Architect & Compliance Lead' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 20
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=3355848, width=3703320, height=1298448
+  Para 0: 'Technical Scope: Glassmorphic React Console, MITRE ATT&CK Matrix, NIST SP 800-61 Rev. 2 Exporter.
+Presentation Focus: MI' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 4
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'High-Level System Architecture' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Low-Overhead Native Rust Core with Embedded ONNX Inference' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Divij Kulkarni' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=2560320, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=2560320, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=2286000, height=274320
+  Para 0: '?? Desktop Shell & UI' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=2286000, height=3218688
+  Para 0: 'Tauri v2 + React 18: Component-driven responsive interface using native system webview.
+Low Memory Footprint: Consumes ~' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=3291840, top=1097280, width=2560320, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=3291840, top=1097280, width=2560320, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=3429000, top=1133856, width=2286000, height=274320
+  Para 0: '? Native Rust Core Engine' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=3429000, top=1481328, width=2286000, height=3218688
+  Para 0: 'ETW Telemetry Probing: Subscribes to Microsoft-Windows-Kernel-Process provider for process lifecycle events.
+Win32 Syste' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 13
+  Type: AUTO_SHAPE (1)
+  Position: left=6126480, top=1097280, width=2560320, height=3657600
+
+  Shape: Shape 14
+  Type: AUTO_SHAPE (1)
+  Position: left=6126480, top=1097280, width=2560320, height=347472
+
+  Shape: Text 15
+  Type: AUTO_SHAPE (1)
+  Position: left=6263640, top=1133856, width=2286000, height=274320
+  Para 0: '? Machine Learning & Storage' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 16
+  Type: AUTO_SHAPE (1)
+  Position: left=6263640, top=1481328, width=2286000, height=3218688
+  Para 0: 'Embedded ONNX Engine: Evaluates Python-trained Random Forest/XGBoost models via ONNX C++ Runtime.
+Zero Cloud Dependencie' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 5
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Module 1: Real-Time Process & Behavior Engine' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Continuous Host Telemetry & Heuristic Integrity Probing' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Divij Kulkarni' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '? Continuous Telemetry Collection' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=3218688
+  Para 0: 'Process Tree Enumeration: Tracks active processes, parent-child PID relationships, and thread counts.
+Resource Profiling' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '?? Behavioral Heuristic Rules' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=3218688
+  Para 0: 'Unquoted Service Paths: Flags service paths vulnerable to binary hijacking and privilege escalation.
+Temp Directory Exec' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 6
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Module 2: Embedded ONNX AI Threat Classifier' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Local Inference for Zero-Day Behavior Classification' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Tanmay Gawali' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '? Model Training & Architecture' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=3218688
+  Para 0: 'Supervised Ensemble: Random Forest and XGBoost classifiers trained on 15+ behavioral feature vectors.
+ONNX Compilation: ' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '? Empirical Performance & Explainability' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=3218688
+  Para 0: '98.4% Accuracy: Evaluated against public EMBER malware benchmark datasets and benign baselines.
+< 2.4 ms Latency: Sub-mi' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 7
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Module 3: Network Flow Monitor & Subnet Scanner' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: '5-Tuple Socket Correlation & Local Subnet Device Discovery' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Soham Wadale' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '? Network Flow Correlation' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=3218688
+  Para 0: '5-Tuple Flow Tracking: Captures Source IP/Port, Destination IP/Port, and Protocol statistics.
+Process-to-Socket Mapping:' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '? Subnet Device Discovery' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=3218688
+  Para 0: 'Dual Probing Protocol: Uses ARP sweeps and mDNS/SSDP broadcast listening to discover active subnet hosts.
+Device Fingerp' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 8
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Module 4: Windows Registry & Persistence Inspector' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Defending Against System Startup & Boot Autostart Hijacking' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Soham Wadale' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '? Windows Registry Inspection' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=3218688
+  Para 0: 'Run & RunOnce Keys: Scans HKCU and HKLM Software\Microsoft\Windows\CurrentVersion\Run keys.
+Windows Services: Monitors c' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '? Startup Folder & MITRE Mapping' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=3218688
+  Para 0: 'Startup Folder Watching: Tracks added shortcut (.lnk) files and scripts in user autostart directories.
+Binary Integrity ' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 9
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Module 5: Alert Triage & Incident Compliance' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'MITRE ATT&CK Mapping & NIST SP 800-61 Rev. 2 Exporter' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Ananya Kaushik' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '?? MITRE ATT&CK Alert Matrix' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=3218688
+  Para 0: 'Automated Technique Tagging: Tags alerts with standard MITRE IDs (T1059 Command Line, T1055 Process Injection).
+Severity' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '? NIST SP 800-61 Rev. 2 Exporter' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=3218688
+  Para 0: 'Standardized Forensic Bundles: Exports structured JSON and Markdown incident packages for SOC analysts.
+Lifecycle Alignm' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 10
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'UI / UX Architecture & Dashboard Console' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Modern Glassmorphic Interface Built for Security Operations' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Ananya Kaushik' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=1737360
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '? Executive Dashboard' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=1298448
+  Para 0: 'Functionality: Real-time threat status gauge, active process metrics, network flow volume, and high-level risk overview.' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=1737360
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '? Process Table' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=1298448
+  Para 0: 'Functionality: Dynamic sorting, search filtering, binary hash inspection modal, and instant process termination controls' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 13
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=2971800, width=3977640, height=1737360
+
+  Shape: Shape 14
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=2971800, width=3977640, height=347472
+
+  Shape: Text 15
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=3008376, width=3703320, height=274320
+  Para 0: '? MITRE Heatmap' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 16
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=3355848, width=3703320, height=1298448
+  Para 0: 'Functionality: Interactive grid matrix visualizing detected ATT&CK techniques across active system events.
+' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 17
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=2971800, width=3977640, height=1737360
+
+  Shape: Shape 18
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=2971800, width=3977640, height=347472
+
+  Shape: Text 19
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=3008376, width=3703320, height=274320
+  Para 0: '? Incident Exporter' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 20
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=3355848, width=3703320, height=1298448
+  Para 0: 'Functionality: One-click generation of NIST SP 800-61 forensic report bundles with custom time filters.
+' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 11
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Performance Benchmarks & Security Safeguards' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Empirical Measurement of Agent Resource Usage & Operating Controls' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Divij Kulkarni' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=2560320, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=2560320, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=2286000, height=274320
+  Para 0: '? CPU & RAM Overhead' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=2286000, height=3218688
+  Para 0: '< 1.8% CPU Usage: Measured under steady-state monitoring (Target was < 5%).
+~42 MB RAM Footprint: 70% lower memory usage' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=3291840, top=1097280, width=2560320, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=3291840, top=1097280, width=2560320, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=3429000, top=1133856, width=2286000, height=274320
+  Para 0: '?? Inference & Latency' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=3429000, top=1481328, width=2286000, height=3218688
+  Para 0: '< 2.4 ms ML Inference: Local ONNX C++ Runtime inference time per evaluation.
+12 ms Cycle Enumeration: Full host process ' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 13
+  Type: AUTO_SHAPE (1)
+  Position: left=6126480, top=1097280, width=2560320, height=3657600
+
+  Shape: Shape 14
+  Type: AUTO_SHAPE (1)
+  Position: left=6126480, top=1097280, width=2560320, height=347472
+
+  Shape: Text 15
+  Type: AUTO_SHAPE (1)
+  Position: left=6263640, top=1133856, width=2286000, height=274320
+  Para 0: '? Operational Safety' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 16
+  Type: AUTO_SHAPE (1)
+  Position: left=6263640, top=1481328, width=2286000, height=3218688
+  Para 0: 'Elevated Privileges: Runs in Administrator mode for ETW and WFP firewall management.
+User Confirmation: Process terminat' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 12
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=320040, width=6035040, height=365760
+  Para 0: 'Product Roadmap & Future Scope' | align=None | font=Arial, size=228600, bold=True, italic=None, color=0F172A
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=685800, width=6035040, height=228600
+  Para 0: 'Transitioning from Endpoint MVP to Enterprise EDR Framework' | align=None | font=Arial, size=133350, bold=None, italic=None, color=0284C7
+
+  Shape: Shape 2
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+
+  Shape: Text 3
+  Type: AUTO_SHAPE (1)
+  Position: left=6675120, top=320040, width=2011680, height=365760
+  Para 0: '?? Soham Wadale' | align=CENTER (2) | font=Arial, size=114300, bold=True, italic=None, color=7C3AED
+
+  Shape: Shape 4
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=0
+
+  Shape: Shape 5
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1097280, width=3977640, height=347472
+
+  Shape: Text 7
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1133856, width=3703320, height=274320
+  Para 0: '? Phase 1: Near-Term Enhancements' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 8
+  Type: AUTO_SHAPE (1)
+  Position: left=594360, top=1481328, width=3703320, height=3218688
+  Para 0: 'Cross-Platform Support: Porting kernel telemetry probes to Linux via eBPF and macOS via Endpoint Security API.
+Automated' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+  Shape: Shape 9
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=3657600
+
+  Shape: Shape 10
+  Type: AUTO_SHAPE (1)
+  Position: left=4709160, top=1097280, width=3977640, height=347472
+
+  Shape: Text 11
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1133856, width=3703320, height=274320
+  Para 0: '? Phase 2: Enterprise Infrastructure' | align=None | font=Arial, size=146050, bold=True, italic=None, color=0284C7
+
+  Shape: Text 12
+  Type: AUTO_SHAPE (1)
+  Position: left=4846320, top=1481328, width=3703320, height=3218688
+  Para 0: 'Centralized Fleet Management: Multi-agent management server console for enterprise workstation fleets.
+SIEM Connector In' | align=None | font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B; font=Arial, size=120650, bold=True, italic=None, color=0F172A; font=Arial, size=120650, bold=None, italic=None, color=1E293B
+
+================================================================================
+SLIDE 13
+================================================================================
+Layout: DEFAULT
+
+  Shape: Text 0
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=548640, width=8229600, height=320040
+  Para 0: 'PROJECT COMPLETION & EVALUATION' | align=CENTER (2) | font=Arial, size=139700, bold=True, italic=None, color=059669
+
+  Shape: Text 1
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=960120, width=8229600, height=685800
+  Para 0: 'Thank You!' | align=CENTER (2) | font=Arial, size=508000, bold=True, italic=None, color=FFFFFF
+
+  Shape: Text 2
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=1691640, width=8229600, height=365760
+  Para 0: 'Sentinel AI ? Intelligent Endpoint Threat Detection & Response System' | align=CENTER (2) | font=Arial, size=177800, bold=None, italic=None, color=CBD5E1
+
+  Shape: Shape 3
+  Type: AUTO_SHAPE (1)
+  Position: left=914400, top=2423160, width=7315200, height=1188720
+
+  Shape: Text 4
+  Type: AUTO_SHAPE (1)
+  Position: left=914400, top=2606040, width=7315200, height=274320
+  Para 0: '? Official Project GitHub Repository:' | align=CENTER (2) | font=Arial, size=152400, bold=None, italic=None, color=94A3B8
+
+  Shape: Text 5
+  Type: AUTO_SHAPE (1)
+  Position: left=914400, top=2971800, width=7315200, height=365760
+  Para 0: 'https://github.com/Tanmay155-glitch/Sentinal-AI.git' | align=CENTER (2) | font=Arial, size=177800, bold=True, italic=None, color=0284C7
+
+  Shape: Text 6
+  Type: AUTO_SHAPE (1)
+  Position: left=457200, top=3931920, width=8229600, height=365760
+  Para 0: 'Presenters: Tanmay Gawali (Lead)  |  Divij Kulkarni  |  Soham Wadale  |  Ananya Kaushik' | align=CENTER (2) | font=Arial, size=139700, bold=None, italic=None, color=CBD5E1
+
+
+================================================================================
+SLIDE BACKGROUNDS
+================================================================================
+
+Slide 1: fill type = SOLID (1)
+
+Slide 2: fill type = SOLID (1)
+
+Slide 3: fill type = SOLID (1)
+
+Slide 4: fill type = SOLID (1)
+
+Slide 5: fill type = SOLID (1)
+
+Slide 6: fill type = SOLID (1)
+
+Slide 7: fill type = SOLID (1)
+
+Slide 8: fill type = SOLID (1)
+
+Slide 9: fill type = SOLID (1)
+
+Slide 10: fill type = SOLID (1)
+
+Slide 11: fill type = SOLID (1)
+
+Slide 12: fill type = SOLID (1)
+
+Slide 13: fill type = SOLID (1)
